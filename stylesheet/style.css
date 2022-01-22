@@ -1,0 +1,15 @@
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+  font-size: xx-large;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.unread {
+  font-style: normal;
+  font-weight: 700;
+}
