@@ -1,0 +1,70 @@
+html {
+  font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+
+body {
+  background-color: #e1eedd;
+  background: url(../images/recipebg.jpg) no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0px;
+}
+a {
+  text-decoration: none;
+  color: #183a1d;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  background-color: #f6c453;
+  color: #183a1d;
+  padding: 20px 20px 20px 20px;
+  margin: 0px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.topnav li {
+  float: left;
+  text-align: center;
+  padding: 14px 25px;
+  font-size: 25px;
+  list-style-type: none;
+  background-color: #fefbe9;
+}
+
+.topnav a:link {
+  color: #183a1d;
+}
+
+.topnav a:hover {
+  background-color: #f6c453;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #e1eedd;
+  text-align: center;
+}
+
+.footer li {
+  float: left;
+  text-align: center;
+  padding: 14px 25px;
+  font-size: 15px;
+  list-style-type: none;
+  background-color: #fefbe9;
+}
+
+.footer a:hover {
+  background-color: #f6c453;
+}
